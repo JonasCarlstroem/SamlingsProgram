@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\SamlingsProgram\SamlingsProgram\bin\Debug\SamlingsProgram.exe.config
+C:\Users\user\source\repos\SamlingsProgram\SamlingsProgram\bin\Debug\SamlingsProgram.exe
+C:\Users\user\source\repos\SamlingsProgram\SamlingsProgram\bin\Debug\SamlingsProgram.pdb
+C:\Users\user\source\repos\SamlingsProgram\SamlingsProgram\obj\Debug\SamlingsProgram.csprojAssemblyReference.cache
+C:\Users\user\source\repos\SamlingsProgram\SamlingsProgram\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\SamlingsProgram\SamlingsProgram\obj\Debug\App.g.cs
+C:\Users\user\source\repos\SamlingsProgram\SamlingsProgram\obj\Debug\SamlingsProgram_MarkupCompile.cache
+C:\Users\user\source\repos\SamlingsProgram\SamlingsProgram\obj\Debug\SamlingsProgram_MarkupCompile.lref
+C:\Users\user\source\repos\SamlingsProgram\SamlingsProgram\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\SamlingsProgram\SamlingsProgram\obj\Debug\SamlingsProgram.g.resources
+C:\Users\user\source\repos\SamlingsProgram\SamlingsProgram\obj\Debug\SamlingsProgram.Properties.Resources.resources
+C:\Users\user\source\repos\SamlingsProgram\SamlingsProgram\obj\Debug\SamlingsProgram.csproj.GenerateResource.cache
+C:\Users\user\source\repos\SamlingsProgram\SamlingsProgram\obj\Debug\SamlingsProgram.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SamlingsProgram\SamlingsProgram\obj\Debug\SamlingsProgram.exe
+C:\Users\user\source\repos\SamlingsProgram\SamlingsProgram\obj\Debug\SamlingsProgram.pdb
